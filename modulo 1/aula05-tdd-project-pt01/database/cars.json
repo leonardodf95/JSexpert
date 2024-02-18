@@ -1,0 +1,709 @@
+[
+  {
+    "id": "c5d8eb5b-7765-43ce-9843-cf342965b4fc",
+    "name": "Challenger",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "48f40cb8-6c66-4bea-9d02-bea08490cd18",
+    "name": "Wrangler",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "dec02416-6ea5-4591-95d0-3f8cc6de4a3a",
+    "name": "Mustang",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "289b3d02-8079-4e9c-a7f9-00f9a2edb453",
+    "name": "Prius",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "56c3a5b5-a65a-4358-a6ff-7da784c01cad",
+    "name": "Malibu",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5ff9a359-daeb-4b9b-b1dd-c44646250965",
+    "name": "Volt",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b789f0f3-d5c3-4b8a-b3ba-db7c46f878c7",
+    "name": "PT Cruiser",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e5489863-3fba-4e68-8cfb-bad09d146ba3",
+    "name": "Camaro",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "ed16e7a2-c1df-4f8e-8ab9-24988ee17010",
+    "name": "Fiesta",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "42e17d75-a757-49aa-84cc-b5b8ec790f7f",
+    "name": "Spyder",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0303a5ff-8114-4705-8023-c2f2fa6e8170",
+    "name": "Focus",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a06ab834-83f6-4b26-b75b-c8d78c33b76a",
+    "name": "Grand Caravan",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "ad5a06c2-7f96-48b0-ba98-431d909ccdc3",
+    "name": "Fortwo",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "12160bbb-15b6-431f-89ad-a06f91fe8d84",
+    "name": "Civic",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "cde04492-bce2-43a7-af0f-5a43f9799242",
+    "name": "Model Y",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3c1aa5b0-9f79-401f-a81a-341cf43affed",
+    "name": "XTS",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "865d26dc-8c48-42c1-9f23-256bf3630f2e",
+    "name": "Impala",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "fc4b163d-227b-472c-a606-6faee6a8cc61",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7f7343ed-26bf-455c-af45-5585a7ef1eab",
+    "name": "Impala",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "627bffd9-d142-45c7-a24e-35f4bead717a",
+    "name": "2",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5e17f8be-bbef-4c94-9d88-cbf3c5a1c523",
+    "name": "XTS",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "611bdabd-525c-46b8-9ec5-d23eb4659fd7",
+    "name": "Altima",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "832052a7-e0c9-4ff8-b4bd-ca50a118dbbf",
+    "name": "Jetta",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "cae18251-f198-4f6d-b7e0-d3a1d670c5d2",
+    "name": "2",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d4aaec5e-48e6-43db-998f-fc8420ff1158",
+    "name": "Altima",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d52bc128-351f-4b47-934a-3c66e02ee8ea",
+    "name": "Escalade",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "ab17d9e9-aada-4654-9d2b-d1401d583b48",
+    "name": "Silverado",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7c1b817e-40a5-4f42-9393-6671382f8bf4",
+    "name": "Escalade",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4bae9269-bd6f-4ad7-a0b0-6346960d628b",
+    "name": "XTS",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7d92149a-33a0-4c0b-8448-81b1eed0a078",
+    "name": "Jetta",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "283968dc-6c25-477e-9108-a0533ada0d8f",
+    "name": "Beetle",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "bc3cd03b-06ad-4c7b-a157-a612b2a845c6",
+    "name": "Explorer",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "f2359f96-8cec-4008-bcab-0e8f8a035b7c",
+    "name": "Taurus",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d56f1fff-c38b-4a14-8e72-eba46626126f",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "045016d1-bdc9-4c80-bb69-58b632aa022f",
+    "name": "Mustang",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "dfd2bf4e-bbda-42e6-b472-5af794358629",
+    "name": "XC90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1e458458-7674-446f-9537-714798297873",
+    "name": "CX-9",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5afa3b91-8223-469b-b320-01440dabc2a7",
+    "name": "Fortwo",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "61e2a976-9564-465e-992c-3ffc785e0471",
+    "name": "XC90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "29c87f4b-6397-4797-85e7-b41188e97930",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "39980242-023b-41ae-9ab9-1a605c0253ab",
+    "name": "Malibu",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d5d16e7a-e40d-4535-b855-fff921ee98ac",
+    "name": "Countach",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a4e813c0-7d2a-49df-9a26-ea5a9bb54a67",
+    "name": "Cruze",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "57582039-cb58-4c90-b760-0f4da98a02d6",
+    "name": "Explorer",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c9dbe98b-dab6-4f88-9d6f-df6a4f3f8fc0",
+    "name": "Fiesta",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d40f65cd-3ab9-40c1-a47a-042d0936e093",
+    "name": "Element",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "24d21d30-7c65-4dca-9bed-7c71fc9cd60e",
+    "name": "F-150",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "02f211bd-105f-4cfa-b1e2-7943cec08231",
+    "name": "Wrangler",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c4819be7-075a-4f7a-842c-18b0d185f653",
+    "name": "Grand Cherokee",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d9874732-10a8-4096-87d9-ad22b2055531",
+    "name": "Land Cruiser",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "76eb93fb-7db1-4c14-b7b7-3a5eaa7f988b",
+    "name": "Model Y",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b246d89a-094e-4f4f-a5f1-4b6567055135",
+    "name": "2",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e8bf8c3c-d84f-4eb4-a6dd-e08e37a74793",
+    "name": "2",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "438673a0-f5de-416f-a015-f1a04578c698",
+    "name": "Model 3",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "279d9a9d-3f18-4f2f-a85e-7a7a32cb7fb1",
+    "name": "Sentra",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1db9350e-6bc8-4a45-9e3e-dfab74db37e1",
+    "name": "Spyder",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a41d9d93-b033-400a-9d45-cf2d1ff14de3",
+    "name": "2",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "80fe39b8-3638-469e-bb9b-28d9ae487a4c",
+    "name": "Prius",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8b77c60d-9d3d-44be-84a4-dd01fd5b6459",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "84a19994-e6fb-44d7-a1a6-29fa1dff91df",
+    "name": "A8",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e37bb40e-8aa8-46bf-a184-42964ddcce75",
+    "name": "Golf",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d02b889a-5051-41b2-83a9-3156dc701bcb",
+    "name": "Explorer",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "2ffd2c4c-908d-4afe-ab4b-2a6073e36613",
+    "name": "Model X",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "cf4f3062-47fc-48e0-8f44-69a16be8a29b",
+    "name": "PT Cruiser",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6b1ff3c9-7c58-47a7-b559-f63f873c99e1",
+    "name": "A4",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "87c13eb4-5cc3-4adc-91f6-36a72909d8c6",
+    "name": "Camry",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b85a68f2-99c9-4cc0-be60-24eb0f0b972a",
+    "name": "Mercielago",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "78c8aa60-e64d-473b-bd81-da12192cf559",
+    "name": "XTS",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3fbdb22d-370e-4873-b696-766f4e206c9f",
+    "name": "V90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "bbfbda88-f2ef-498c-950b-687435204d5c",
+    "name": "Wrangler",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a165baec-e10c-4c43-b756-e5f522f5397a",
+    "name": "Alpine",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6baac19a-7fc4-4208-a733-799605a8e8d9",
+    "name": "Wrangler",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "48eefc18-00a8-4275-9d2d-4b654167dd40",
+    "name": "Countach",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "eb277855-ad4d-404e-8c59-83c0fa7da158",
+    "name": "2",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5845fb4d-d268-4e46-ab83-74958d2ec0fb",
+    "name": "Model Y",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "908e9966-7402-4f32-ab55-7ee9a613d517",
+    "name": "Corvette",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3694d05e-a6cf-4591-8710-38fb0e898629",
+    "name": "911",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "46cb6201-9c8e-498c-9ca5-9bb35dc10a7f",
+    "name": "Spyder",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "ee7a83c8-28e3-4dff-8a5a-85090fb4a193",
+    "name": "PT Cruiser",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "48c95e73-0812-485c-989d-cf6fff8cf051",
+    "name": "V90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4115f5c2-d2f6-4de6-9780-915f670dac2b",
+    "name": "Challenger",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a508060b-3d66-4d97-9c5f-21a707f01781",
+    "name": "Alpine",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1802d84f-6818-44d0-aa58-64b03f139815",
+    "name": "Focus",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "73165bd4-096e-4356-9352-d637a3fc655b",
+    "name": "Grand Caravan",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6e1a4a8f-4987-423e-9b8e-0519b2b57480",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "b008961c-8289-4491-9eff-2d54fc42ef6c",
+    "name": "A8",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "334a5668-6de2-43eb-850e-cd3674fb0bdf",
+    "name": "Accord",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e0d1238f-894d-4c0b-a0b1-3d5463dce900",
+    "name": "Model T",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "190cbdd0-a0fd-42e3-a2d7-ab602abf7fa3",
+    "name": "Ranchero",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "55444eda-dfa5-4a64-b028-f3ff82f4512c",
+    "name": "Grand Caravan",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "82b31b70-b890-4d42-a169-0a869c748cb4",
+    "name": "911",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "479f2c20-d212-48ff-a906-e24c9beaa1e2",
+    "name": "XC90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1b24f534-d116-4049-9c9d-420fbcf1f96a",
+    "name": "Wrangler",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8fd77b31-35c6-4ef4-a2e0-a8a83108774b",
+    "name": "Colorado",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5b42e62b-7dea-4fee-9c6f-91ba77e535f2",
+    "name": "Volt",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "61674278-64aa-4189-b500-0844e7b81d64",
+    "name": "A4",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e095545f-8c3e-4073-a94e-1ad53d318815",
+    "name": "Escalade",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "80ff82ac-81de-4d53-be78-af7893844cc1",
+    "name": "El Camino",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "dee2c148-d1c2-4788-a8bc-e6fa17f584b1",
+    "name": "Mercielago",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0ef42812-1357-4cfc-b407-bcd0583fdae2",
+    "name": "Prius",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "404f0889-fb51-4a80-8aa7-030f22f904f8",
+    "name": "V90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]

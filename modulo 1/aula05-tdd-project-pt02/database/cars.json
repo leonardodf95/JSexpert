@@ -1,0 +1,23 @@
+[
+  {
+    "id": "393e2693-0bd0-4e6f-a757-8d6d07651004",
+    "name": "CX-9",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "80347a2b-86f3-4d91-9cef-3b1d787cb06c",
+    "name": "Camaro",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8f7c4825-24d9-4cd9-b506-9c685c88b3a6",
+    "name": "A4",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
